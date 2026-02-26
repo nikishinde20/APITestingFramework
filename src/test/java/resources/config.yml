@@ -1,9 +1,8 @@
 environment: qa
 
 qa:
-  baseUrl: https://qa-api.com
-  username: qaUser
-  password: qaPass
+  baseUrl: https://rahulshettyacademy.com
+  timeout: 30
 
 prod:
   baseUrl: https://prod-api.com
