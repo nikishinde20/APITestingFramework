@@ -1,0 +1,11 @@
+environment: qa
+
+qa:
+  baseUrl: https://qa-api.com
+  username: qaUser
+  password: qaPass
+
+prod:
+  baseUrl: https://prod-api.com
+  username: prodUser
+  password: prodPass
